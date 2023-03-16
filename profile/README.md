@@ -6,7 +6,7 @@ Long-term exposure to fine particulate matter is estimated to cause ∼8 million
 2) the availability of open geospatial & air quality data to measure pollutants causing these problems 
 3) a belief in the power of data science to transform data-driven environmental health policies. 
 
-<--
+<!--
 🌈 Contribution guidelines - how can the community get involved? 
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 🍿 Fun facts - what does your team eat for breakfast?
